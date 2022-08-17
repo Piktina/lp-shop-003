@@ -186,11 +186,10 @@ img.shop-cta {
   top: 38%;
   left: 28%;
   margin-right: 15px;
-
   font-family: Alfa Slab One;
   font-size: 3.8vw;
   font-weight: 400;
-  line-height: 15px;
+  line-height: 13px;
   text-align: left;
 
 }
@@ -200,7 +199,6 @@ img.shop-cta {
   top: 65%;
   left: 28%;
   margin-right: 15px;
-
   font-family: Mulish;
   font-size: 13px;
   font-weight: 400;
