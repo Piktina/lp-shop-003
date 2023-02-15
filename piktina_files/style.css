@@ -17,7 +17,7 @@ img.top-banner {
 
 .description {
   padding-top: 10px;
-  padding-bottom: 24px;
+  padding-bottom: 10px;
   text-align: center;
   font-family: "Mulish", sans-serif;
   font-size: 15px;
@@ -144,6 +144,7 @@ section:nth-child(5) { grid-column: 9 / 13; grid-row: 1; z-index: 5; }
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 16px;
   margin-bottom: 16px;
   margin-left: 24px;
   margin-right: 24px;
